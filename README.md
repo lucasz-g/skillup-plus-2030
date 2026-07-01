@@ -1,14 +1,5 @@
 # SkillUpPlus 2030+
 
-## Integrantes
-Lucas Garcia - RM554070
-
-
-Iago Diniz - RM553776
-
-
-Pedro Henrique - RM553988 
-
 ## Descrição do Projeto
 
 O **SkillUpPlus 2030+** é um aplicativo móvel desenvolvido em **React Native** (utilizando **Expo Router**) para apoiar trabalhadores e estudantes na requalificação profissional frente às transformações do mercado, inspirando-se nos ODS 4 (Educação de Qualidade) e ODS 8 (Trabalho Decente e Crescimento Econômico).
